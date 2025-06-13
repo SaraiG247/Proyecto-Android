@@ -32,6 +32,7 @@ Cuando el usuario hace clic en cualquiera de estos botones se abre una nueva act
 ![](https://drive.google.com/uc?export=view&id=1J6ohG1rSZBYKnBmy2dXzyKy0lN0Y2OL6)
 
 **Pantallas de Ejercicios (ActivityEjercicio)**
+
 Dentro de cada pantalla, se muestra una interfaz con los componentes necesarios para resolver el ejercicio (incluye campos de entrada, botones, cálculos automáticos, resultados, etc.).
 
 ![](https://drive.google.com/uc?export=view&id=1rbobnd_5VGOsClyTKEKq5j4qtSapbxsb)
