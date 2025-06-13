@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/activityLogin">
+
+    <fragment
+        android:id="@+id/activityLogin"
+        android:name="com.example.androidfinal.LoginActivity"
+        android:label="Login"
+        tools:layout="@layout/activity_login" />
+
+    <fragment
+        android:id="@+id/activityMenu"
+        android:name="com.example.androidfinal.FragmentMenu"
+        android:label="Menú"
+        tools:layout="@layout/activity_menu" />
+
+    <fragment
+        android:id="@+id/activityEjercicio1"
+        android:name="com.example.androidfinal.ActivityEjercicio1"
+        android:label="Ejercicio 1"
+        tools:layout="@layout/activity_ejercicio1" />
+
+    <fragment
+        android:id="@+id/activityEjercicio2"
+        android:name="com.example.androidfinal.ActivityEjercicio2"
+        android:label="Ejercicio 2"
+        tools:layout="@layout/activity_ejercicio2" />
+
+    <fragment
+        android:id="@+id/activityEjercicio3"
+        android:name="com.example.androidfinal.ActivityEjercicio3"
+        android:label="Ejercicio 3"
+        tools:layout="@layout/activity_ejercicio3" />
+
+    <fragment
+        android:id="@+id/activityEjercicio4"
+        android:name="com.example.androidfinal.ActivityEjercicio4"
+        android:label="Ejercicio 4"
+        tools:layout="@layout/activity_ejercicio4" />
+
+    <fragment
+        android:id="@+id/activityEjercicio5"
+        android:name="com.example.androidfinal.ActivityEjercicio5"
+        android:label="Ejercicio 5"
+        tools:layout="@layout/activity_ejercicio5" />
+
+    <fragment
+        android:id="@+id/activityEjercicio6"
+        android:name="com.example.androidfinal.ActivityEjercicio6"
+        android:label="Ejercicio 6"
+        tools:layout="@layout/activity_ejercicio6" />
+
+    <fragment
+        android:id="@+id/activityEjercicio7"
+        android:name="com.example.androidfinal.ActivityEjercicio7"
+        android:label="Ejercicio 7"
+        tools:layout="@layout/activity_ejercicio7" />
+
+    <fragment
+        android:id="@+id/activityEjercicio8"
+        android:name="com.example.androidfinal.ActivityEjercicio8"
+        android:label="Ejercicio 8"
+        tools:layout="@layout/activity_ejercicio8" />
+
+    <fragment
+        android:id="@+id/activityEjercicio9"
+        android:name="com.example.androidfinal.ActivityEjercicio9"
+        android:label="Ejercicio 9"
+        tools:layout="@layout/activity_ejercicio9" />
+
+    <fragment
+        android:id="@+id/activityEjercicio_10"
+        android:name="com.example.androidfinal.ActivityEjercicio_10"
+        android:label="Ejercicio 10"
+        tools:layout="@layout/activity_ejercicio9" />
+
+</navigation>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3A8571"
+    tools:context=".ActivityEjercicio2">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="717dp"
+            android:background="@drawable/background_gradient"
+            android:backgroundTint="#3A8571"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:text="Colores"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/bgRojoEje2"
+                    android:layout_width="117dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edittext_background"
+                    android:backgroundTint="#FF0303"
+                    android:text="Rojo" />
+
+                <RadioButton
+                    android:id="@+id/bgVerdeEje2"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edittext_background"
+                    android:backgroundTint="#4CAF50"
+                    android:text="Verde" />
+
+                <RadioButton
+                    android:id="@+id/bgAzulEje2"
+                    android:layout_width="119dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edittext_background"
+                    android:backgroundTint="#03A9F4"
+                    android:text="Azul" />
+            </RadioGroup>
+
+            <Button
+                android:id="@+id/btnAceptarEje2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:backgroundTint="#4052B6"
+                android:text="Aceptar" />
+
+            <TextView
+                android:id="@+id/lblValorEje2"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/edittext_background"
+                android:gravity="center"
+                android:text=""
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btnCerrarEje2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:backgroundTint="#4052B6"
+                android:text="Regresar" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</FrameLayout>
