@@ -17,9 +17,9 @@ Al abrir la aplicación, se muestra un formulario con dos campos, uno para el co
 Si ambas condiciones se cumplen, se permite el acceso y se abre la pantalla principal (MainActivity), si la contraseña es incorrecta o el correo no es válido, aparece un mensaje de error y no se avanza.
 
 
-![](https://drive.google.com/uc?export=view&id=1NhJINKRsv5Ve1R5WvYyAJeEvVfRCfjmq)
+![](https://drive.google.com/uc?export=view&id=11jH54CrUjV_8dKyNYOzeYxQxRZZ8A47h)
 
-![](https://drive.google.com/uc?export=view&id=1FBMs_wc864ff72Zs02p8X2gTIMhla5QO)
+![](https://drive.google.com/uc?export=view&id=1KvHyhHL1gu3i991B1Ac_ogkcyBQk2FnS)
 
 **Pantalla Principal (MainActivity)**
 
@@ -27,32 +27,32 @@ Una vez iniciada la sesión correctamente, el usuario llega a una pantalla donde
 - Ejercicio 1, Ejercicio 2 ... Ejercicio 10
 Cuando el usuario hace clic en cualquiera de estos botones se abre una nueva actividad correspondiente al número del ejercicio.
 
-![](https://drive.google.com/uc?export=view&id=1KlPMpnrkGdMSlCWWUBbrwHP4rwMwuJ5S)
+![](https://drive.google.com/uc?export=view&id=1bHWOjw1qHbHLpruLPu_CK6qW20rnPUwu)
 
-![](https://drive.google.com/uc?export=view&id=1ivsejKgkqWf7ne6iDFSuBlJHbIV67sIq)
+![](https://drive.google.com/uc?export=view&id=1J6ohG1rSZBYKnBmy2dXzyKy0lN0Y2OL6)
 
 **Pantallas de Ejercicios (ActivityEjercicio)**
 Dentro de cada pantalla, se muestra una interfaz con los componentes necesarios para resolver el ejercicio (incluye campos de entrada, botones, cálculos automáticos, resultados, etc.).
 
-![](https://drive.google.com/uc?export=view&id=1B62xBzargxly169M44zABfGyD1PVCRxn)
+![](https://drive.google.com/uc?export=view&id=1rbobnd_5VGOsClyTKEKq5j4qtSapbxsb)
 
-![](https://drive.google.com/uc?export=view&id=1GShsbW_O1V5HJn0pB6dGZ14yyjTjsdvz)
+![](https://drive.google.com/uc?export=view&id=12dshFSeqs25fm9WwhxZpr8u7bd2ueIne)
 
-![](https://drive.google.com/uc?export=view&id=1Jl83aI2V6LNXyMwHVhaiOQ7h_-ayPd4l)
+![](https://drive.google.com/uc?export=view&id=1AYuIVDdyrgVQ4HG_r5MTJvpRHCCInOqR)
 
-![](https://drive.google.com/uc?export=view&id=1puPHvBJY8jkbQuLprGWK6RwMIz6e2zP2)
+![](https://drive.google.com/uc?export=view&id=1lzYrUHfFVr5oAbta3h6K6-_wXKF3Lwvy)
 
-![](https://drive.google.com/uc?export=view&id=1puPHvBJY8jkbQuLprGWK6RwMIz6e2zP2)
+![](https://drive.google.com/uc?export=view&id=1z2GYWMhRtKadOP37WSjpMuTEgHSRjGAW)
 
-![](https://drive.google.com/uc?export=view&id=1q5hPGEokdznLEzEm1VTWYNXDbPaqG2jL)
+![](https://drive.google.com/uc?export=view&id=1rUMir1dD5J9V2MLo6flCj7k67Mcj62yj)
 
-![](https://drive.google.com/uc?export=view&id=1s7H8Ow6KoUPHu97inHk3KlnmRMnAbQiB)
+![](https://drive.google.com/uc?export=view&id=1UppPo4GyOQ3hrPwNI85ESEsj8UcNx2fr)
 
-![](https://drive.google.com/uc?export=view&id=1mKmXKmZy-IouhkxqbX-k2HMPdo0JKTDs)
+![](https://drive.google.com/uc?export=view&id=1NbhWlnOiqcfUj_PHR7xBlYz3GoXyGVwi)
 
-![](https://drive.google.com/uc?export=view&id=1auOUGSuaijCmd5XLCEtzFvE-KxBbBMdb)
+![](https://drive.google.com/uc?export=view&id=1SmPeKyE9pYBcV6-a7NBP1gxtXFalk5e-)
 
-![](https://drive.google.com/uc?export=view&id=1vc5mhvXM58Nm9UvpqBFnZIo1QCx-nkoY)
+![](https://drive.google.com/uc?export=view&id=1kuXw7MwNumLAnmYFzgM0leff9JOFI32e)
 
 
 
