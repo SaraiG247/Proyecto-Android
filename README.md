@@ -19,7 +19,7 @@ Si ambas condiciones se cumplen, se permite el acceso y se abre la pantalla prin
 
 ![](https://drive.google.com/uc?export=view&id=1NhJINKRsv5Ve1R5WvYyAJeEvVfRCfjmq)
 
-![](https://drive.google.com/uc?export=view&id=1DenUsdd1EbUjvoA-uN5PV7mBKzCNHRjk)
+![](https://drive.google.com/uc?export=view&id=1FBMs_wc864ff72Zs02p8X2gTIMhla5QO)
 
 **Pantalla Principal (MainActivity)**
 
